@@ -1,0 +1,25 @@
+Idade,Sintomas,PressaoArterial,Diagnostico
+45,dor de cabeça,130/85,enxaqueca
+32,dor no peito,140/90,doenca_cardiaca
+28,tosse,120/80,resfriado
+50,febre,dados_indisponiveis,gripe
+36,dor nas articulacoes,125/82,artrite
+52,fadiga,133/88,doenca_cardiaca
+42,tosse,dados_indisponiveis,resfriado
+47,dor de cabeça,126/82,enxaqueca
+64,dor no peito,138/85,doenca_cardiaca
+39,dor de garganta,121/78,resfriado
+57,tosse,dados_indisponiveis,gripe
+33,dor nas costas,129/84,dor_muscular
+49,febre,dados_indisponiveis,gripe
+55,dor no peito,135/88,doenca_cardiaca
+41,dor de cabeça,124/80,enxaqueca
+68,tosse,143/90,resfriado
+38,dor nas articulacoes,128/85,artrite
+60,fadiga,136/87,doenca_cardiaca
+43,tosse,dados_indisponiveis,resfriado
+46,dor de cabeça,131/85,enxaqueca
+70,dor no peito,142/89,doenca_cardiaca
+54,dor nas costas,130/84,dor_muscular
+51,febre,dados_indisponiveis,gripe
+59,tosse,dados_indisponiveis,resfriado
